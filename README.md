@@ -1,2 +1,1 @@
-# coursera-test
-Coursera Test Repository
+Repository for My Personal Projects in C Programming Language
